@@ -32,7 +32,7 @@ ahamed-safnas-potato-disease-classification/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ahamed-Safnas/Potato-Disease-Classification.git
 cd ahamed-safnas-potato-disease-classification
 ```
 
