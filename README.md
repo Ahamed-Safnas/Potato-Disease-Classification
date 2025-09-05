@@ -1,8 +1,4 @@
-Perfect 👍 You want me to **merge the docker-compose based README** you provided with my **previous answer about building & running frontend/backend separately with Docker**.
 
-Here’s the **new complete README.md** that has **both options (Compose + Separate containers)**:
-
----
 
 # 🥔 Potato Disease Classification
 
